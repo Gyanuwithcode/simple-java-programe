@@ -1,5 +1,7 @@
 # simple-java-programe
+
 Define a class called Mobike with the following description:-
+
 Instance Variable/data members
 string bno:- To store the bike number(up32at6767)
 string name:- To store the name of the customer.
